@@ -1,0 +1,7 @@
+Racket
+Shuttlecock
+Shoes
+Clothing
+Grips
+String
+Bag
